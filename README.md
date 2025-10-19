@@ -74,7 +74,6 @@ Das Add-on ersetzt das Standard-Death-System von Garry's Mod durch eine professi
 ```
 keksi-deathscreen/
 ├── 📄 addon.json                           # Add-on Metadaten
-├── 📄 README.md                            # Diese Dokumentation
 └── lua/
     └── autorun/
         └── 📜 keksdeathscreen_extended.lua # Hauptskript (Server + Client)
