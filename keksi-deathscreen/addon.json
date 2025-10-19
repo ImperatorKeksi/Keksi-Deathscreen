@@ -1,0 +1,11 @@
+﻿{
+"title": "Keks Deathscreen - Erweiterte Lila Edition v2.1",
+"type": "ServerContent",
+"tags": [ "roleplay", "realism", "deathscreen", "darkrp", "medical" ],
+"ignore": [
+"*.md",
+"*.txt",
+"*.psd",
+"*.git*"
+]
+}
